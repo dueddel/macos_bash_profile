@@ -24,9 +24,29 @@ Open the READMEs for each to see detailed information (like usage and possible r
 
 ## 🚀 Usage
 
- - coming soon …
+1. clone/download the snippet collection
+2. move whereever you want it to be (maybe in a hidden sub-folder located in your home directory, e.g. `~/.snippets_for_bash_profile/`)
+3. link to the collection in your `~/._bash_profile` file
 
-🛴
+That's it.
+
+👏
+
+It's dangerous to go alone! Take this.
+
+```bash
+# ensure to be in your user's home directory
+cd ~/
+# clone the repository (master branch will be used)
+git clone git@github.com:dueddel/macos_bash_profile.git .dueddel_macos_bash_profile
+# append a link to your .bash_profile using `source`
+echo "" >> ~/.bash_profile
+echo "# https://github.com/dueddel/macos_bash_profile" >> ~/.bash_profile
+echo "source ~/.dueddel_macos_bash_profile/snippets/collection.sh" >> ~/.bash_profile
+echo "" >> ~/.bash_profile
+```
+
+⚔️
 
 ## 🕳 Lack of features?
 
