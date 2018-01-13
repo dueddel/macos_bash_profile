@@ -14,9 +14,9 @@ Just add them to your `.bash_profile` located in your user's home directory (`~/
 
 Up to now, this collection contains snippets to:
 
- - coming soon …
+- add some more [colors](./snippets/terminal_colors/README.md) to your terminal
 
-🛴
+😎
 
 Open the READMEs for each to see detailed information (like usage and possible requirements).
 
