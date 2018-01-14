@@ -15,6 +15,7 @@ Just add them to your `.bash_profile` located in your user's home directory (`~/
 Up to now, this collection contains snippets to:
 
 - add some more [colors](./snippets/terminal_colors/README.md) to your terminal
+- change the default behaviour of [file listing](./snippets/ls_extension/README.md) with `ls`
 
 😎
 
