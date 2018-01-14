@@ -6,5 +6,6 @@ DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
 source ${DIR}/functions.sh
 
 # include snippets of the collection
+source ${DIR}/history_extension/history.sh
 source ${DIR}/ls_extension/ls.sh
 source ${DIR}/terminal_colors/colors.sh
