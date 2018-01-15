@@ -17,6 +17,7 @@ Up to now, this collection contains snippets to:
 - add some more [colors](./snippets/terminal_colors/README.md) to your terminal
 - change the default behaviour of [file listing](./snippets/ls_extension/README.md) with `ls`
 - extend the [`history`](./snippets/history_extension/README.md) command's output
+- generate safe (long and cryptic) [passwords](./snippets/pw-generator/README.md) using `pwgen`
 - [recursively delete](./snippets/recursive_rm/README.md) same-named files in a directory and its sub-directories (such as .DS_Store)
 
 😎
