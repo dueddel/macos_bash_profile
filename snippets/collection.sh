@@ -8,4 +8,5 @@ source ${DIR}/functions.sh
 # include snippets of the collection
 source ${DIR}/history_extension/history.sh
 source ${DIR}/ls_extension/ls.sh
+source ${DIR}/recursive_rm/rm-recursively.sh
 source ${DIR}/terminal_colors/colors.sh
