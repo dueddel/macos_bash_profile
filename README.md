@@ -19,6 +19,7 @@ Up to now, this collection contains snippets to:
 - extend the [`history`](./snippets/history_extension/README.md) command's output
 - generate safe (long and cryptic) [passwords](./snippets/pw-generator/README.md) using `pwgen`
 - [recursively delete](./snippets/recursive_rm/README.md) same-named files in a directory and its sub-directories (such as .DS_Store)
+- copy your SSH public key to the system clipboard
 
 😎
 
