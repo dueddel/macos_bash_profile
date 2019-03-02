@@ -15,3 +15,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - snippet to extend the `history` command's behaviour
 - command to generate secure passwords with
 - command to recursively delete files
+- command to copy your SSH public key to the system clipboard
