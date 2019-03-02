@@ -14,3 +14,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - default parameters to every call of `ls`
 - snippet to extend the `history` command's behaviour
 - command to generate secure passwords with
+- command to recursively delete files
