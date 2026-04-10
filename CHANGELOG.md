@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - shortcut commands for video conversion using `ffmpeg`
+- shortcut for updating dependencies installed via Homebrew
 
 ## [1.0.0] - 2019-03-02
 
