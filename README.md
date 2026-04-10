@@ -16,6 +16,7 @@
 - generate safe (long and cryptic) [passwords](./snippets/pw-generator/README.md) using `pwgen`
 - [recursively delete](./snippets/recursive_rm/README.md) same-named files in a directory and its sub-directories (such as .DS_Store)
 - [copy your SSH public key](./snippets/ssh-pub-key-copy/README.md) to the system clipboard
+- convert video files using [ffmpeg shortcuts](./snippets/ffmpeg-shortcuts/README.md)
 
 📚 Open the READMEs for each to see detailed information (like usage and possible requirements).
 
