@@ -12,3 +12,4 @@ source ${DIR}/pw-generator/pw.sh
 source ${DIR}/recursive_rm/rm-recursively.sh
 source ${DIR}/ssh-pub-key-copy/sshcp.sh
 source ${DIR}/terminal_colors/colors.sh
+source ${DIR}/ffmpeg-shortcuts/ffmpeg.sh
